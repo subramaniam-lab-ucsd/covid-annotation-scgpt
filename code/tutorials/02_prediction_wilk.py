@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # SS Study (both) as Validation Set
+# # Wilk Study as Validation Set
 # ## Fine-tuning on Pre-trained Model for Cell-type Annotation in COVID dataset 
 # 
 # 
@@ -347,8 +347,8 @@ study_batch_ids = {
     "Wilk" : 4,  # Wilk - used as the study to make predictions
 }
 
-trainingStudies = ["Wilk", "Bali", "Lee"]
-testStudies = ["SS_C1", "SS_C2"]
+trainingStudies = ["SS_C2", "Bali", "Lee", "SS_C1"]
+testStudies = ["Wilk"]
 
 
 # In[ ]:
@@ -1160,11 +1160,11 @@ adata_test_raw.obs["predictions"] = [id2type[p] for p in predictions]
 # In[ ]:
 
 
-adata_test_raw.write_h5ad(data_dir/"predictionsSS_combined.h5ad")
+adata_test_raw.write_h5ad(data_dir/"predictionsWilk2.h5ad")
 
 
 # In[ ]:
 
 
-torch.save(best_model.state_dict(), save_dir / "SS_combined_Model.pt")
+torch.save(best_model.state_dict(), save_dir / "wilk2_Model.pt")
 
