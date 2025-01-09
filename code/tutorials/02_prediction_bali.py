@@ -1160,7 +1160,7 @@ adata_test_raw.obs["predictions"] = [id2type[p] for p in predictions]
 # In[ ]:
 
 
-adata_test_raw.write_h5ad(dataDir/"predictionsBali.h5ad")
+adata_test_raw.write_h5ad(data_dir/"predictionsBali.h5ad")
 
 
 # In[ ]:
