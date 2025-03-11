@@ -2,4 +2,4 @@ data/*
 save/*
 **/*.png
 *.wandb
-wandb/*
+**/wandb/
