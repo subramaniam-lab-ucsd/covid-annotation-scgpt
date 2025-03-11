@@ -1,0 +1,8 @@
+{"time":"2025-02-20T09:39:49.606471091-08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-02-20T09:39:49.606481263-08:00","level":"INFO","msg":"created symlink","path":"/home/s5srinivasan/covid-annotation-scgpt/code/finetuning/wandb/run-20250220_093946-nrz27tuk/logs/debug-core.log"}
+{"time":"2025-02-20T09:39:49.714139548-08:00","level":"INFO","msg":"created new stream","id":"nrz27tuk"}
+{"time":"2025-02-20T09:39:49.714386859-08:00","level":"INFO","msg":"stream: started","id":"nrz27tuk"}
+{"time":"2025-02-20T09:39:49.714395886-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"nrz27tuk"}
+{"time":"2025-02-20T09:39:49.714408566-08:00","level":"INFO","msg":"handler: started","stream_id":"nrz27tuk"}
+{"time":"2025-02-20T09:39:49.714408577-08:00","level":"INFO","msg":"sender: started","stream_id":"nrz27tuk"}
+{"time":"2025-02-20T09:39:50.326090138-08:00","level":"INFO","msg":"Starting system monitor"}

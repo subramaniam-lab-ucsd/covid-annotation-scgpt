@@ -1,0 +1,70 @@
+{"time":"2025-02-21T18:30:10.082130669-08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-02-21T18:30:10.082142312-08:00","level":"INFO","msg":"created symlink","path":"/home/s5srinivasan/covid-annotation-scgpt/code/finetuning/wandb/run-20250221_183010-n4emcjtf/logs/debug-core.log"}
+{"time":"2025-02-21T18:30:10.188628022-08:00","level":"INFO","msg":"created new stream","id":"n4emcjtf"}
+{"time":"2025-02-21T18:30:10.188657546-08:00","level":"INFO","msg":"stream: started","id":"n4emcjtf"}
+{"time":"2025-02-21T18:30:10.18867093-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"n4emcjtf"}
+{"time":"2025-02-21T18:30:10.188674991-08:00","level":"INFO","msg":"handler: started","stream_id":"n4emcjtf"}
+{"time":"2025-02-21T18:30:10.189601857-08:00","level":"INFO","msg":"sender: started","stream_id":"n4emcjtf"}
+{"time":"2025-02-21T18:30:10.675633332-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-21T18:30:11.005417774-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:30:11.005441231-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:30:11.007227215-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:30:11.047365554-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:30:11.047379125-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:30:11.063404912-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:30:11.063905551-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:30:11.092244037-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:30:11.093323623-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:30:11.122360969-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:30:13.161448275-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:30:13.197114202-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:30:13.197873243-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:30:13.247208084-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:30:13.24766331-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:30:13.286089313-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:30:13.291439635-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:30:13.319413196-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:30:13.321558315-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:30:13.341979717-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:30:13.355213419-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:30:13.378343555-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:30:13.392633525-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:30:13.413648661-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:30:13.415368905-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:30:13.439472649-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:30:13.440252327-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:30:13.464124227-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:30:13.776422325-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:30:13.809817626-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:30:13.810565811-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:30:13.83644467-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:44:16.324750855-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:44:16.391006188-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:44:32.921823625-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:44:32.981691981-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:44:32.98622132-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:44:33.015126983-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:45:43.732399045-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:45:43.800208182-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:45:43.803254006-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:45:43.834818757-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:45:46.270064927-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:45:46.326640512-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:45:46.543891625-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:45:46.582939776-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:45:46.589303496-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:45:46.616959201-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:45:46.61770138-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:45:46.648257078-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T21:54:41.320384504-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-22T08:29:35.450372994-08:00","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/srks-uc-san-diego/scGPT-covid-annotation/n4emcjtf/file_stream"}
+{"time":"2025-02-22T18:30:43.662965156-08:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/srks-uc-san-diego/scGPT-covid-annotation/n4emcjtf/file_stream"}
+{"time":"2025-02-23T02:45:04.840469772-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-23T02:45:04.88381325-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-23T02:45:04.885662067-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-23T02:45:04.915432731-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-23T02:53:52.464927653-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-23T02:53:52.521921326-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-23T02:53:52.822473606-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-23T02:53:52.848125185-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-23T02:53:53.061829301-08:00","level":"INFO","msg":"Pausing system monitor"}

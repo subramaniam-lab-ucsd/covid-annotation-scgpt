@@ -1,0 +1,48 @@
+{
+  "os": "Linux-5.14.0-503.21.1.el9_5.x86_64-x86_64-with-glibc2.34",
+  "python": "3.9.21",
+  "startedAt": "2025-01-31T16:50:48.719699Z",
+  "program": "/home/s5srinivasan/covid-annotation-scgpt/code/tutorials/zero-shot/Finetuned_Reference_Mapping_Braga.ipynb",
+  "git": {
+    "remote": "https://github.com/subramaniam-lab-ucsd/covid-annotation-scgpt.git",
+    "commit": "2874a71b9e81b5ed5856fdada6b7d74b34540428"
+  },
+  "email": "s5srinivasan@ucsd.edu",
+  "root": "/home/s5srinivasan/covid-annotation-scgpt/code/tutorials/zero-shot",
+  "host": "sc-srv12.sdsc.edu",
+  "username": "s5srinivasan",
+  "executable": "/home/s5srinivasan/py39env/bin/python",
+  "codePathLocal": "Finetuned_Reference_Mapping_Braga.ipynb",
+  "cpu_count": 80,
+  "cpu_count_logical": 160,
+  "gpu": "NVIDIA A30",
+  "gpu_count": 2,
+  "disk": {
+    "/": {
+      "total": "75090624512",
+      "used": "24376057856"
+    }
+  },
+  "memory": {
+    "total": "1081053523968"
+  },
+  "cpu": {
+    "count": 80,
+    "countLogical": 160
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA A30",
+      "memoryTotal": "25769803776",
+      "cudaCores": 3584,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A30",
+      "memoryTotal": "25769803776",
+      "cudaCores": 3584,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.7"
+}

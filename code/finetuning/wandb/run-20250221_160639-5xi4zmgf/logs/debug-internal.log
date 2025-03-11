@@ -1,0 +1,16 @@
+{"time":"2025-02-21T16:06:39.21905096-08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-02-21T16:06:39.219062162-08:00","level":"INFO","msg":"created symlink","path":"/home/s5srinivasan/covid-annotation-scgpt/code/finetuning/wandb/run-20250221_160639-5xi4zmgf/logs/debug-core.log"}
+{"time":"2025-02-21T16:06:39.327056965-08:00","level":"INFO","msg":"created new stream","id":"5xi4zmgf"}
+{"time":"2025-02-21T16:06:39.32709029-08:00","level":"INFO","msg":"stream: started","id":"5xi4zmgf"}
+{"time":"2025-02-21T16:06:39.327107657-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"5xi4zmgf"}
+{"time":"2025-02-21T16:06:39.327108487-08:00","level":"INFO","msg":"handler: started","stream_id":"5xi4zmgf"}
+{"time":"2025-02-21T16:06:39.327117502-08:00","level":"INFO","msg":"sender: started","stream_id":"5xi4zmgf"}
+{"time":"2025-02-21T16:06:39.507822757-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-21T16:06:41.800503816-08:00","level":"INFO","msg":"stream: closing","id":"5xi4zmgf"}
+{"time":"2025-02-21T16:06:41.800529424-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-21T16:06:41.800970344-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-21T16:06:42.191397438-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-21T16:06:42.30501531-08:00","level":"INFO","msg":"handler: closed","stream_id":"5xi4zmgf"}
+{"time":"2025-02-21T16:06:42.30503277-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"5xi4zmgf"}
+{"time":"2025-02-21T16:06:42.305036101-08:00","level":"INFO","msg":"sender: closed","stream_id":"5xi4zmgf"}
+{"time":"2025-02-21T16:06:42.305066094-08:00","level":"INFO","msg":"stream: closed","id":"5xi4zmgf"}

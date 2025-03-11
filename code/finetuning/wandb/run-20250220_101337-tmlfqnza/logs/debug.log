@@ -1,0 +1,49 @@
+2025-02-20 10:13:37,489 INFO    MainThread:49391 [wandb_setup.py:_flush():79] Current SDK version is 0.18.7
+2025-02-20 10:13:37,489 INFO    MainThread:49391 [wandb_setup.py:_flush():79] Configure stats pid to 49391
+2025-02-20 10:13:37,489 INFO    MainThread:49391 [wandb_setup.py:_flush():79] Loading settings from /home/s5srinivasan/.config/wandb/settings
+2025-02-20 10:13:37,489 INFO    MainThread:49391 [wandb_setup.py:_flush():79] Loading settings from /home/s5srinivasan/covid-annotation-scgpt/code/finetuning/wandb/settings
+2025-02-20 10:13:37,489 INFO    MainThread:49391 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2025-02-20 10:13:37,489 INFO    MainThread:49391 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': 'online', '_disable_service': None}
+2025-02-20 10:13:37,489 INFO    MainThread:49391 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2025-02-20 10:13:37,489 INFO    MainThread:49391 [wandb_setup.py:_flush():79] Applying login settings: {}
+2025-02-20 10:13:37,489 INFO    MainThread:49391 [wandb_init.py:_log_setup():533] Logging user logs to /home/s5srinivasan/covid-annotation-scgpt/code/finetuning/wandb/run-20250220_101337-tmlfqnza/logs/debug.log
+2025-02-20 10:13:37,489 INFO    MainThread:49391 [wandb_init.py:_log_setup():534] Logging internal logs to /home/s5srinivasan/covid-annotation-scgpt/code/finetuning/wandb/run-20250220_101337-tmlfqnza/logs/debug-internal.log
+2025-02-20 10:13:37,490 INFO    MainThread:49391 [wandb_init.py:_jupyter_setup():479] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f2cf1256b50>
+2025-02-20 10:13:37,490 INFO    MainThread:49391 [wandb_init.py:init():619] calling init triggers
+2025-02-20 10:13:37,490 INFO    MainThread:49391 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {'seed': 0, 'dataset_name': 'covid', 'do_train': True, 'load_model': '/home/s5srinivasan/covid-annotation-scgpt/save/scgpt-human', 'mask_ratio': 0.0, 'epochs': 1, 'n_bins': 51, 'MVC': False, 'ecs_thres': 0.0, 'dab_weight': 0.0, 'lr': 0.0001, 'batch_size': 16, 'layer_size': 128, 'nlayers': 4, 'nhead': 4, 'dropout': 0.2, 'schedule_ratio': 0.9, 'save_eval_interval': 5, 'fast_transformer': True, 'pre_norm': False, 'amp': True, 'include_zero_gene': False, 'freeze': False, 'DSBN': False}
+2025-02-20 10:13:37,490 INFO    MainThread:49391 [wandb_init.py:init():644] re-initializing run, found existing run on stack: nrz27tuk
+2025-02-20 10:13:37,491 INFO    MainThread:49391 [wandb_run.py:_finish():2155] finishing run srks-uc-san-diego/scGPT-covid-annotation/nrz27tuk
+2025-02-20 10:13:37,491 ERROR   MainThread:49391 [wandb_init.py:init():1266] error in wandb.init()
+Traceback (most recent call last):
+  File "/home/s5srinivasan/py39env/lib64/python3.9/site-packages/wandb/sdk/wandb_init.py", line 1256, in init
+    return wi.init()
+  File "/home/s5srinivasan/py39env/lib64/python3.9/site-packages/wandb/sdk/wandb_init.py", line 654, in init
+    latest_run.finish()
+  File "/home/s5srinivasan/py39env/lib64/python3.9/site-packages/wandb/sdk/wandb_run.py", line 451, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/s5srinivasan/py39env/lib64/python3.9/site-packages/wandb/sdk/wandb_run.py", line 393, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/s5srinivasan/py39env/lib64/python3.9/site-packages/wandb/sdk/wandb_run.py", line 2149, in finish
+    return self._finish(exit_code)
+  File "/home/s5srinivasan/py39env/lib64/python3.9/site-packages/wandb/sdk/wandb_run.py", line 2157, in _finish
+    tel.feature.finish = True
+  File "/home/s5srinivasan/py39env/lib64/python3.9/site-packages/wandb/sdk/lib/telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/home/s5srinivasan/py39env/lib64/python3.9/site-packages/wandb/sdk/wandb_run.py", line 801, in _telemetry_callback
+    self._telemetry_flush()
+  File "/home/s5srinivasan/py39env/lib64/python3.9/site-packages/wandb/sdk/wandb_run.py", line 814, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/home/s5srinivasan/py39env/lib64/python3.9/site-packages/wandb/sdk/interface/interface_shared.py", line 101, in _publish_telemetry
+    self._publish(rec)
+  File "/home/s5srinivasan/py39env/lib64/python3.9/site-packages/wandb/sdk/interface/interface_sock.py", line 51, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/s5srinivasan/py39env/lib64/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 222, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/s5srinivasan/py39env/lib64/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/s5srinivasan/py39env/lib64/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/s5srinivasan/py39env/lib64/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe

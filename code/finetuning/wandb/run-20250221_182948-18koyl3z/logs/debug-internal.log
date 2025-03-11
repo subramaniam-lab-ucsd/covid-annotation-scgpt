@@ -1,0 +1,21 @@
+{"time":"2025-02-21T18:29:48.303053506-08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-02-21T18:29:48.303066036-08:00","level":"INFO","msg":"created symlink","path":"/home/s5srinivasan/covid-annotation-scgpt/code/finetuning/wandb/run-20250221_182948-18koyl3z/logs/debug-core.log"}
+{"time":"2025-02-21T18:29:48.409198141-08:00","level":"INFO","msg":"created new stream","id":"18koyl3z"}
+{"time":"2025-02-21T18:29:48.409228374-08:00","level":"INFO","msg":"stream: started","id":"18koyl3z"}
+{"time":"2025-02-21T18:29:48.409246621-08:00","level":"INFO","msg":"handler: started","stream_id":"18koyl3z"}
+{"time":"2025-02-21T18:29:48.409248732-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"18koyl3z"}
+{"time":"2025-02-21T18:29:48.409258285-08:00","level":"INFO","msg":"sender: started","stream_id":"18koyl3z"}
+{"time":"2025-02-21T18:29:48.611326587-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-21T18:29:48.942476519-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:29:48.942504438-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:29:48.94250807-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:29:48.964689193-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:29:49.005406684-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:29:49.005422992-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:29:49.005425967-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:29:49.023218894-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:29:49.024479929-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:29:49.052643201-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:29:51.095008144-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T18:29:51.126934958-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T18:29:51.406354794-08:00","level":"INFO","msg":"Pausing system monitor"}
